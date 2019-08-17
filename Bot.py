@@ -16,5 +16,5 @@ async def on_message(message):
             m = "おはようございます" + message.author.name + "さん！"
             await message.channel.send(m)
 
-client.run("NjEyNDEzMTExODQzOTQ2NTQ5.XViEDw.CGzgaFMosLWK-bZqd9tEtjMN4a4
+client.run("NjEyNDEzMTExODQzOTQ2NTQ5.XViJfQ.6qHgv39HmT7OnzkP0d00UAOzDNc
 ")
